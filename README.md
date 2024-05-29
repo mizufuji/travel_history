@@ -15,11 +15,4 @@ Database・・・SQLite3
 Udemyの今西航平さんの講座
 「Python初学者のネクストステップ！FastAPIによるWeb API開発講座」
 
-seminar/
-├─ index.html        # トップページ
-├─ member.html       # メンバー紹介ページ
-├─ work.html         # ゼミ活動紹介ページ
-├─ README.md
-├─ images
-└─ css/
-    └─ common.css
+Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
