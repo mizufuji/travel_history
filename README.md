@@ -1,16 +1,39 @@
 旅行履歴を記録するWEBアプリケーションです。
 旅行先・旅行した月をDBに記録し、UIに表示することができます。
 
-言語:
+■言語:
 Python
 
-構造:
+■構造:
 UI・・・Streamlit
 
 APIサーバー・・・FastAPI
 
 Database・・・SQLite3
 
-参考にしたもの
+■参考にしたもの
 Udemyの今西航平さんの講座
 「Python初学者のネクストステップ！FastAPIによるWeb API開発講座」
+
+■ドキュメント構成
+.
+
+│  app.py
+
+│  sql_app.db
+
+├─sql_app
+
+│   crud.py
+
+│   database.py
+
+│   main.py
+
+│   models.py
+
+│   schemas.py
+
+│   __init__.py
+
+
