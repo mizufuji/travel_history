@@ -14,3 +14,12 @@ Database・・・SQLite3
 参考にしたもの
 Udemyの今西航平さんの講座
 「Python初学者のネクストステップ！FastAPIによるWeb API開発講座」
+
+seminar/
+├─ index.html        # トップページ
+├─ member.html       # メンバー紹介ページ
+├─ work.html         # ゼミ活動紹介ページ
+├─ README.md
+├─ images
+└─ css/
+    └─ common.css
