@@ -16,24 +16,16 @@ Udemyの今西航平さんの講座
 「Python初学者のネクストステップ！FastAPIによるWeb API開発講座」
 
 ■ドキュメント構成
+```
 .
-
 │  app.py
-
 │  sql_app.db
-
+│
 ├─sql_app
-
-│   crud.py
-
-│   database.py
-
-│   main.py
-
-│   models.py
-
-│   schemas.py
-
-│   __init__.py
-
-
+│  │  crud.py
+│  │  database.py
+│  │  main.py
+│  │  models.py
+│  │  schemas.py
+│  │  __init__.py
+```
