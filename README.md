@@ -6,7 +6,9 @@ Python
 
 構造:
 UI・・・Streamlit
+
 APIサーバー・・・FastAPI
+
 Database・・・SQLite3
 
 参考にしたもの
