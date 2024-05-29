@@ -14,5 +14,3 @@ Database・・・SQLite3
 参考にしたもの
 Udemyの今西航平さんの講座
 「Python初学者のネクストステップ！FastAPIによるWeb API開発講座」
-
-Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
