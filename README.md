@@ -11,9 +11,6 @@ APIサーバー・・・FastAPI
 
 Database・・・SQLite3
 
-■参考にしたもの
-Udemyの今西航平さんの講座
-「Python初学者のネクストステップ！FastAPIによるWeb API開発講座」
 
 ■ドキュメント構成
 ```
